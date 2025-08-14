@@ -1,9 +1,9 @@
-/*! Data v@VERSION | @DATE | [@BUNDLE] */
+/*! jData v@VERSION | @DATE | [@BUNDLE] */
 (function (global) {
     "use strict";
 
-    if (typeof global !== "object" || !global || !global.document) {
-        throw new Error("Data requires a window with a document");
+    if (typeof global !== "object" || !global) {
+        throw new Error("jData requires a window");
     }
 
     if (typeof global.jData !== "undefined") {
