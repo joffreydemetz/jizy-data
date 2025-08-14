@@ -4,6 +4,11 @@
   "browser": "dist/jizy-data.min.js",
   "main": "lib/index.js",
   "type": "module",
+  "files": [
+    "dist/jizy-data.min.js",
+    "lib/js/data.js",
+    "lib/index.js"
+  ],
   "scripts": {
     "test": "jest",
     "dist": "node cli/dist.js",
