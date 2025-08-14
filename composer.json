@@ -1,0 +1,19 @@
+{
+    "name": "jdz/jizy-data",
+    "type": "library",
+    "description": "A simple JS data storage library",
+    "keywords": [
+        "JDZ",
+        "Data storage"
+    ],
+    "homepage": "https://jdz.joffreydemetz.com/jdata",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joffrey Demetz",
+            "email": "joffrey.demetz@gmail.com",
+            "homepage": "https://joffreydemetz.com",
+            "role": "Lead"
+        }
+    ]
+}

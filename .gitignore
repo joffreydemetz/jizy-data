@@ -1,0 +1,6 @@
+node_modules/
+composer.lock
+package-lock.json
+test/
+vendor/
+lib/js/index.js
