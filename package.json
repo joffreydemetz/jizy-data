@@ -1,6 +1,6 @@
 {
   "name": "jizy-data",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "browser": "dist/jizy-data.min.js",
   "main": "lib/index.js",
   "type": "module",
