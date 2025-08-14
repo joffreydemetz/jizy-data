@@ -1,2 +1,3 @@
-# jizy-modalizer
-Build a modal managing layers
+# jizy-data 
+
+A simple data management library for JavaScript applications.
