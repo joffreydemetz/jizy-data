@@ -1,14 +1,12 @@
 {
   "name": "jizy-data",
-  "version": "2.1.5",
+  "version": "2.2.0",
   "main": "lib/index.js",
   "type": "module",
   "files": [
     "lib/index.js"
   ],
   "scripts": {
-    "jpack:export": "node ./cli/jpack.js --action build --name perso",
-    "jpack:dist": "node ./cli/jpack.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "jest": {
