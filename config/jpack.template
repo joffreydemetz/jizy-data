@@ -1,3 +1,0 @@
-import jData from '{{PREFIX}}lib/js/data.js';
-
-export default jData;
