@@ -1,4 +1,4 @@
-import jData from '../lib/js/data.js';
+import jData from '../lib/index.js';
 
 let store;
 
