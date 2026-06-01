@@ -3,6 +3,14 @@
   "version": "2.2.0",
   "main": "lib/index.js",
   "type": "module",
+  "author": "Joffrey Demetz <joffrey.demetz@gmail.com> (https://joffreydemetz.com/)",
+  "license": "MIT",
+  "description": "A simple JS data storage library.",
+  "homepage": "https://jizy.joffreydemetz.com/data",
+  "keywords": [
+    "jizy",
+    "data"
+  ],
   "files": [
     "lib/index.js"
   ],
@@ -20,14 +28,6 @@
     "type": "git",
     "url": "git+https://github.com/joffreydemetz/jizy-data.git"
   },
-  "keywords": [
-    "jizy",
-    "data"
-  ],
-  "author": "Joffrey Demetz <joffrey.demetz@gmail.com> (https://joffreydemetz.com/)",
-  "license": "MIT",
-  "description": "A simple JS data storage library.",
-  "homepage": "https://jizy.joffreydemetz.com/data",
   "devDependencies": {
     "jest": "^29.7.0"
   }
