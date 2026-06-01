@@ -1,6 +1,6 @@
 {
   "name": "jizy-data",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "main": "lib/index.js",
   "type": "module",
   "author": "Joffrey Demetz <joffrey.demetz@gmail.com> (https://joffreydemetz.com/)",
